@@ -1,4 +1,5 @@
-######################## Simple interpolation pedegogy #######################################################
+
+######################## Simple interpolation pedegogy ###############
 #random variable, 1000 points
 t <- runif(1000,1,2)
 #compress, smooth, interpolate to 100 points
